@@ -21,6 +21,4 @@ This is just for fun but for seriousness just contact me
  
  If you wish to support me to make more of such awesome projects.
  
- Just paytm me @9953561935 or
- 
  send me amazon gift cards at ashirwadmishra05@gmail.com
