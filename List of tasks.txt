@@ -1,0 +1,16 @@
+What can the virtual Assistant do:
+You can be creative and add sentences but I am just giving the keywords below.
+
+Hope you have read the password.txt
+1) Say ""any name" wikipedia" to get his/her information. Eg: Tom Cruise wikipedia
+2) Say "search in google" to go to google with some search
+3) Say "wait" to keep the virtual assistant on hold
+4) Say "calculate "anything"" to get the results Eg: calculate sin 30
+5) Say "elements" to go to a website which displays all the elements and its info.
+6) Say "How is the weather" Then it will ask your city and your local weather will be given.
+7) Say "time" to get time.
+8) Say "date" to get date.
+9) Say "send mail" and then enter your info and the mail will be sent if your mail supports it.
+10) Say "code" if you have installed vscode.
+11) Say "meaning" then it will take input of your word to give its meaning.
+12) Say "go offline" if you want it to shut itself down.
